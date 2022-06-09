@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ianarceo
 - 👀 I’m interested in Python 3 Programming
 - 🌱 I’m currently learning Python 3
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on different Python projects
 - 📫 How to reach me > ianarceo@yahoo.com
 
 <!---
